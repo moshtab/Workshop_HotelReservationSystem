@@ -16,6 +16,7 @@ class Hotels {
 public class HotelReservationSystem {
 
 	public static void main(String[] args) {
+		System.out.println("Welcome to Hotel Reservation Systel Program");
 		Hotels lakewood = new Hotels("Lakewood", 110);
 		Hotels bridgewood = new Hotels("Bridgewood", 160);
 		Hotels ridgewood = new Hotels("Ridgewood", 220);
